@@ -1,0 +1,10 @@
+{
+  "name": "makefun-meme-vc-pawn",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Stage make.fun post metadata for the Vice City pawn ticket meme entry.",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "dependencies": {}
+}
